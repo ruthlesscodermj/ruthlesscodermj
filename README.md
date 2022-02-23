@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ruthlesscodermj
-- 👀 I’m interested in Data and Cyber Security
-- 🌱 I’m currently learning Forensics
-- 💞️ I’m looking to collaborate on data and security applications
-- 📫 How to reach me? - via email @: mariejambawai@gmail.com
+- 👋 Hi, I’m Marie aka @ruthlesscodermj
+- 👀 I’m interested in Data, IOT and Cyber Security
+- 🌱 I’m currently learning Forensics and Python
+- 💞️ I’m looking to collaborate on data, IOT and security applications
+- 📫 How to reach me? - via email @: mjambawai@usiu.ac.ke
 
 <!---
 ruthlesscodermj/ruthlesscodermj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
